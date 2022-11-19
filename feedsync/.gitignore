@@ -1,0 +1,19 @@
+# Editor
+.idea
+.nova
+
+/var/www/realestatesconnected/feedsync/SAMPLES/*
+/var/www/realestatesconnected/feedsync/output/*
+/output/images/*
+/processed/*
+/logs/*
+*.xml
+*.zip
+*.blm
+*.DS_Store
+tmp/log/error.log
+error.log
+eac.log
+*.log
+error_log
+config.php
